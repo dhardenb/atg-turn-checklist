@@ -1,3 +1,7 @@
+---
+title: Advanced Tactics Gold: The Ultimate Turn Checklist
+---
+
 Advanced Tactics Gold: The Ultimate Turn Checklist
 ==================================================
 

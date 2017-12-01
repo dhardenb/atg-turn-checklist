@@ -1,16 +1,20 @@
-Advanced Tactics Gold Turn Checklist
-====================================
+Advanced Tactics Gold: The Ultimate Turn Checklist
+==================================================
 
-## Reconnaissance
-
-> Military observation of a region to locate an enemy or ascertain strategic features.
+Reconnaissance
+--------------
 
 - [ ] Watch history of last turn.
+
 - [ ] Probe Enemy Lines
+
 - [ ] Execute behind the lines surveillance
 
-## Combat Maneuvers
+Combat Maneuvers
+----------------
 
 - [ ] Execute Air to Ground Attacks
+
 - [ ] Execute Artilery Barrages
+
 - [ ] Execute Calvary Assults Against Infantry

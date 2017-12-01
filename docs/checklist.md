@@ -3,11 +3,11 @@ Advanced Tactics Gold: The Ultimate Turn Checklist
 
 ### Reconnaissance
 
-- [ ] Watch history of last turn
+- [ ] Watch History of Last Turn
 
 - [ ] Probe Enemy Lines
 
-- [ ] Execute behind the lines surveillance
+- [ ] Execute Behind the Lines Surveillance
 
 ### Combat Maneuvers
 
@@ -16,3 +16,9 @@ Advanced Tactics Gold: The Ultimate Turn Checklist
 - [ ] Execute Artilery Barrages
 
 - [ ] Execute Calvary Assults Against Infantry
+
+### Troop Movements
+
+- [ ] Move Up Reserves to Reinforce the Line Where Needed
+
+- [ ] Adjust Reserve Postions Based on New Line Situation

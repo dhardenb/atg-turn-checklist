@@ -16,6 +16,14 @@
 
 ### Troop Movements
 
-- Move Up Reserves to Reinforce the Line Where Needed
+- Move Up Reserves to Reinforce the Line
 
-- Adjust Reserve Postions Based on New Line Situation
+- Adjust Reserve Postions
+
+- Execute Tropp Transfers
+
+### Engineering
+
+- Improve Strategic Resource Structures
+
+- Build Roads

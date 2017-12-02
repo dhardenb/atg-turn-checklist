@@ -1,3 +1,13 @@
+### Diplomacy
+
+- Make Alliances
+
+- Break Alliances
+
+- Declare Ware
+
+- Delare Peace
+
 ### Reconnaissance
 
 - Watch History of Last Turn
@@ -59,6 +69,10 @@
   - Without Leader
 
 - Reassign HQs
+
+- Update Models
+
+- Assign Models
 
 ### Research
 

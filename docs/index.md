@@ -62,13 +62,15 @@
 
 - Destroy Units
 
+- Update Units' Controlling HQ
+
 - Create New HQs
 
   - With Leader
   
   - Without Leader
 
-- Reassign HQs
+- Update HQs' Controlling HQ
 
 - Update Models
 

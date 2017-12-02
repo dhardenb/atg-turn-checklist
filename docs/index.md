@@ -20,13 +20,23 @@
 
 - Adjust Reserve Postions
 
-- Execute Tropp Transfers
+- Execute Troop Transfers
 
 - Execute Strategic Transfers
 
 ### Engineering
 
-- Improve Strategic Resource Structures
+- Improve Strategic Resources
+
+- Build New Locations
+
+  - Airbase
+
+  - Aircraft Factory
+
+  - Gun Factory
+
+  - Tank Factory
 
 - Build Roads
 

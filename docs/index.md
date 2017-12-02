@@ -97,6 +97,8 @@
     - Without Leader
 
   - Update HQs' Controlling HQ
+  
+  - Reassign Leaders
 
   - Adjust Staffing Levels
   
@@ -105,3 +107,5 @@
 ### Research
 
 - Perform Research
+
+- Recruit Officers

@@ -91,6 +91,8 @@
   - Update HQs' Controlling HQ
 
   - Adjust Staffing Levels
+  
+  - Send Excess Staff to the Lines
 
 ### Research
 

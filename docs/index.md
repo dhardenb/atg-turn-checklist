@@ -56,7 +56,7 @@
 
   - With Leader
   
-  - Without leader
+  - Without Leader
 
 - Reassign HQs
 

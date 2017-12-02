@@ -110,6 +110,8 @@
 
 ### Research
 
-- Perform Research
+- Update Subformation Models
+
+- Perform Technology Research
 
 - Recruit Officers

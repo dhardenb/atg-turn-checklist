@@ -4,7 +4,7 @@
 
 - Break Alliances
 
-- Declare Ware
+- Declare War
 
 - Delare Peace
 

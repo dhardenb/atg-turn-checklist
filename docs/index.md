@@ -64,23 +64,27 @@
 
 ### Organization
 
-- Create New Units
+- Units
 
-- Destroy Units
+  - Create New Units
 
-- Update Units' Controlling HQ
+  - Update Unit Models
 
-- Create New HQs
+  - Destroy Units
 
-  - With Leader
+  - Update Units' Controlling HQ
   
-  - Without Leader
+- HQs
 
-- Update HQs' Controlling HQ
+  - Create New HQs
 
-- Update Models
+    - With Leader
+  
+    - Without Leader
 
-- Assign Models
+  - Update HQs' Controlling HQ
+
+  - Adjust Staffing Levels
 
 ### Research
 

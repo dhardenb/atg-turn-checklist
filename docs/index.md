@@ -24,6 +24,12 @@
 
 - Execute Calvary Assults Against Infantry
 
+### Supply Lines
+
+- Set Ships to Interdict Naval Supply Routes
+
+- Send Land Units to Interdict Land Routes
+
 ### Troop Movements
 
 - Move Up Reserves to Reinforce the Line

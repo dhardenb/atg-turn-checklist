@@ -22,8 +22,20 @@
 
 - Execute Tropp Transfers
 
+- Execute Strategic Transfers
+
 ### Engineering
 
 - Improve Strategic Resource Structures
 
 - Build Roads
+
+### Production
+
+- Set Production Lines for each City
+
+- Adjust Product Levels in each City
+
+### Research
+
+- Perform Research

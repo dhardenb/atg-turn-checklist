@@ -40,6 +40,8 @@
 
 - Execute Strategic Transfers
 
+- Adjust Units' Transportation Subunits
+
 ### Air Force Operations
 
 - Adjust Air Cover

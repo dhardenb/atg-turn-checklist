@@ -64,6 +64,8 @@
 
 - Build Roads
 
+- Raze Locations
+
 ### Production
 
 - Set Production Lines for each City

@@ -24,6 +24,8 @@
 
 - Execute Calvary Assults Against Infantry
 
+- Execute Strategic Bombing Runs
+
 ### Supply Lines
 
 - Set Ships to Interdict Naval Supply Routes
@@ -115,3 +117,5 @@
 - Perform Technology Research
 
 - Recruit Officers
+
+- Activate Cards

@@ -40,6 +40,12 @@
 
 - Execute Strategic Transfers
 
+### Air Force Operations
+
+- Adjust Air Cover
+
+- Adjust Flak Protection
+
 ### Engineering
 
 - Improve Strategic Resources

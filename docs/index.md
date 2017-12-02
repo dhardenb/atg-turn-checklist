@@ -82,6 +82,12 @@
 
   - Update Units' Controlling HQ
   
+  - Disband Units' Subformations
+  
+  - Adjust Units' Retreat Setting
+  
+  - Adjust Units' Supply Rationing
+  
 - HQs
 
   - Create New HQs

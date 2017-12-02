@@ -61,6 +61,8 @@
   - Gun Factory
 
   - Tank Factory
+  
+- Repair Locations
 
 - Build Roads
 

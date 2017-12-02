@@ -46,6 +46,20 @@
 
 - Adjust Product Levels in each City
 
+### Organization
+
+- Create New Units
+
+- Destroy Units
+
+- Create New HQs
+
+  - With Leader
+  
+  - Without leader
+
+- Reassign HQs
+
 ### Research
 
 - Perform Research

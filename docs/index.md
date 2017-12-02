@@ -6,7 +6,7 @@
 
 - Declare War
 
-- Delare Peace
+- Declare Peace
 
 ### Reconnaissance
 

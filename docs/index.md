@@ -72,6 +72,8 @@
 
 ### Production
 
+- Ensure that each City has an HQ assigned
+
 - Set Production Lines for each City
 
 - Adjust Product Levels in each City

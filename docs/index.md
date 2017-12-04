@@ -46,7 +46,9 @@
 
 ### Air Force Operations
 
-- Adjust Air Cover
+- Adjust Supply Inderdiction Settings
+
+- Adjust Interception Settings
 
 - Adjust Flak Protection
 
